@@ -1,2 +1,9 @@
 # Coffee-Sales-Analysis
-The dataset records coffee sales from a vending machine, focusing on purchasing patterns and customer preferences. Steps include loading and cleaning the data, performing exploratory data analysis to visualize trends, preparing data for machine learning, training a linear regression model for sales prediction, and evaluating the model's performance
+The dataset records coffee sales from a vending machine, provided by the author for analyzing purchasing patterns, sales trends, and customer preferences.
+
+Steps and Implementation:
+•Loaded and cleaned the coffee sales data
+•Conducted exploratory data analysis to visualize sales trends
+•Prepared the data for machine learning 
+•Trained a simple linear regression model to predict sales
+•Evaluated the model's performance

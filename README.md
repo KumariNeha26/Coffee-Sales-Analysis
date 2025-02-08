@@ -1,9 +1,28 @@
-# Coffee-Sales-Analysis
-The dataset records coffee sales from a vending machine, provided by the author for analyzing purchasing patterns, sales trends, and customer preferences.
+☕ Coffee Sales Analysis
+📌 Overview
+This project analyzes coffee sales data from a vending machine to understand customer purchasing patterns, sales trends, and sales predictions.
 
-Steps and Implementation:
-•Loaded and cleaned the coffee sales data
-•Conducted exploratory data analysis to visualize sales trends
-•Prepared the data for machine learning 
-•Trained a simple linear regression model to predict sales
-•Evaluated the model's performance
+📂 Dataset
+File: coffee_sales.csv
+Details: Sales transactions, timestamps, and customer behavior
+
+🔍 Key Steps
+Data Cleaning – Handled missing values and formatted data
+Exploratory Data Analysis – Identified trends and customer preferences
+Sales Prediction – Trained a linear regression model for forecasting
+
+📊 Results
+Identified peak sales hours and customer preferences
+Predicted future sales trends using machine learning
+
+🚀 How to Run
+Install dependencies:
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+Open and run the Jupyter Notebook:
+jupyter notebook coffee_sales.ipynb
+
+📌 Files
+coffee_sales.csv – Sales data
+coffee_sales.ipynb – Analysis notebook
+Coffee Sales.pptx – Presentation

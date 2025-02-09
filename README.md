@@ -1,4 +1,4 @@
-Coffee Sales Analysis
+# Coffee Sales Analysis
 
 Project Overview
 This project analyzes coffee sales data from a vending machine to identify customer purchasing patterns, track sales trends, and forecast future sales using machine learning.
